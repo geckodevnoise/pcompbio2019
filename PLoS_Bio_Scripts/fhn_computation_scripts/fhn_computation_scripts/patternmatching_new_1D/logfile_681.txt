@@ -1,0 +1,967 @@
+gecko 681
+initial value determined from U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\new method - minimize fa ee only\arrays_25_25_1_aug29
+SS/PL=0.723  EE=0.648   FA=0.306
+best fit SS/PL=0.84109 ee=0.71808  fa=0.31335
+initial data rho=3.1375 R=0.044125  d=0.0194 threshold_id=96
+minimum distance=0.012271
+ 
+Initializing matrices...
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.044125 d=0.0194
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1        0.0412909         
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.2944 R=0.044125 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+run: rho=3.1375 R=0.046331 d=0.0194
+     1            3        0.0317021         initial simplex
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.9806 R=0.046331 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.047434 d=0.0194
+     2            5        0.0164108         expand
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+run: rho=2.8238 R=0.049641 d=0.0194
+     3            6        0.0164108         reflect
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.51 R=0.050744 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.9806 R=0.047434 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.8238 R=0.048537 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+run: rho=2.9806 R=0.046883 d=0.0194
+     4           10        0.0164108         shrink
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.6669 R=0.049089 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+run: rho=2.51 R=0.050192 d=0.0194
+     5           12       0.00560557         reflect
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.047986 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+run: rho=2.5884 R=0.04771 d=0.0194
+     6           14       0.00426425         reflect
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.51 R=0.049641 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.7453 R=0.047986 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048537 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+run: rho=2.7453 R=0.04771 d=0.0194
+     7           18       0.00426425         shrink
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.5884 R=0.048813 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6277 R=0.048537 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.6669 R=0.048262 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+run: rho=2.7061 R=0.047848 d=0.0194
+     8           22       0.00426425         shrink
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6277 R=0.0484 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+run: rho=2.6865 R=0.047986 d=0.0194
+     9           24       0.00426425         contract inside
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6473 R=0.048262 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6571 R=0.048193 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6669 R=0.048124 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+run: rho=2.6767 R=0.047986 d=0.0194
+    10           28       0.00426425         shrink
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.6571 R=0.048124 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+run: rho=2.662 R=0.048089 d=0.0194
+    11           30       0.00348989         contract outside
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.662 R=0.047951 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+run: rho=2.6632 R=0.047995 d=0.0194
+    12           32       0.00177521         contract outside
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6583 R=0.048098 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6647 R=0.048014 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.6626 R=0.048042 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+run: rho=2.665 R=0.04799 d=0.0194
+    13           36       0.00177521         shrink
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6656 R=0.047943 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6634 R=0.048017 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6641 R=0.047992 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+run: rho=2.6629 R=0.048018 d=0.0194
+    14           40       0.00177521         shrink
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6644 R=0.047969 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6633 R=0.048006 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.6637 R=0.047993 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+run: rho=2.663 R=0.048006 d=0.0194
+    15           44       0.00177521         shrink
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6638 R=0.047982 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6634 R=0.047994 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+run: rho=2.6631 R=0.048 d=0.0194
+    16           48       0.00177521         shrink
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6629 R=0.048001 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6633 R=0.047996 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6632 R=0.047998 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+run: rho=2.6633 R=0.047994 d=0.0194
+    17           52       0.00177521         shrink
+run: rho=2.663 R=0.047998 d=0.0194
+run: rho=2.663 R=0.047998 d=0.0194
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestFunction', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\TestFunction.m', 21)" style="font-weight:bold">TestFunction</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\TestFunction.m',21,0)">line 21</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn>@(T,Y)TestFunction(T,Y,rho,R)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\fn.m', 53)" style="font-weight:bold">fn>@(T,Y)TestFunction(T,Y,rho,R)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m', 261)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m',261,0)">line 261</a>)
+    f(:,2) = feval(odeFcn,t+hA(1),y+f*hB(:,1),odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\fn.m', 53)" style="font-weight:bold">fn</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distance_characteristics_space', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\distance_characteristics_space.m', 20)" style="font-weight:bold">distance_characteristics_space</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\distance_characteristics_space.m',20,0)">line 20</a>)
+fn(rhog,Rg,diffcoeffg);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern>@(param)distance_characteristics_space(param(1),param(2),inid,ss_pl,ee,fa)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\optimize_pattern.m', 52)" style="font-weight:bold">optimize_pattern>@(param)distance_characteristics_space(param(1),param(2),inid,ss_pl,ee,fa)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\optimize_pattern.m',52,0)">line 52</a>)
+obj_fct=@(param) distance_characteristics_space(param(1),param(2),inid, ss_pl,ee,fa); %% we keep d constant=inid
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fminsearch', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p', 308)" style="font-weight:bold">fminsearch</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p',308,0)">line 308</a>)
+    x(:) = xr; fxr = funfcn(x,varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\optimize_pattern.m', 53)" style="font-weight:bold">optimize_pattern</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\optimize_pattern.m',53,0)">line 53</a>)
+[optimal_param,fval,exitflag,output] = fminsearch(obj_fct, [   inirho, iniR], options)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loop_all_geckos', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\loop_all_geckos.m', 5)" style="font-weight:bold">loop_all_geckos</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\loop_all_geckos.m',5,0)">line 5</a>)
+    optimize_pattern(gecko_data(ii,1),gecko_data(ii,2),gecko_data(ii,3),gecko_data(ii,4));
+} 
+optimal_param=[2.6632 0.048]
+
+optimal_param =
+
+    2.6632    0.0480
+
+inid=0.0194
+
+inid =
+
+    0.0194
+
+gecko_id=681
+
+gecko_id =
+
+   681
+
+mindist=0.00177521
+
+mindist =
+
+    0.0018
+
+save(['/optimization_results.mat'], 'optimal_param', 'inid','gecko_id');
+
+save(['optimization_results.mat'], 'optimal_param', 'inid','gecko_id');
+create_pattern_data
+{Error: <a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\create_pattern_data.m',25,30)">File: create_pattern_data.m Line: 25 Column: 30
+</a>The input character is not valid in MATLAB statements or expressions.
+} 
+create_pattern_data
+{Error: <a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\create_pattern_data.m',25,30)">File: create_pattern_data.m Line: 25 Column: 30
+</a>The input character is not valid in MATLAB statements or expressions.
+} 
+i=1
+
+i =
+
+     1
+
+tt=[ num2str(i) '_avva']
+
+tt =
+
+1_avva
+
+
+tt=[ num2str(i) '_avva']
+
+tt =
+
+1_avva
+
+create_pattern_data
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'arrays_aug31/optimization_results.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('create_pattern_data', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\create_pattern_data.m', 27)" style="font-weight:bold">create_pattern_data</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\create_pattern_data.m',27,0)">line 27</a>)
+load([dir '/optimization_results.mat'], 'optimal_param', 'inid','mindist');
+} 
+create_pattern_data
+[Warning: Variable 'mindist' not found.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('create_pattern_data', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\create_pattern_data.m', 27)" style="font-weight:bold">create_pattern_data</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\create_pattern_data.m',27,0)">line 27</a>)] 
+gecko 681
+SS/PL=0.723  EE=0.648   FA=0.306
+best fit rho=2.6632 R=0.048  d=0.0194
+ 
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+run: rho=2.6632 R=0.048 d=0.0194
+make_graphs
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file '681_newdata_n100_TolFun0.001_TolX0.001_MaxIter30/optimal_stat.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('make_graphs', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\make_graphs.m', 8)" style="font-weight:bold">make_graphs</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new\make_graphs.m',8,0)">line 8</a>)
+    load([dir '/optimal_stat.mat'],'ddlist','statslist');
+} 
+make_graphs
+loop_all_geckos
+gecko 681
+initial value determined from U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\new method - minimize fa ee only\arrays_25_25_1_aug29
+SS/PL=0.723  EE=0.648   FA=0.306
+initial data rho=3.1375 R=0.044125  d=0.0194 threshold_id=96
+ 
+Initializing matrices...
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1        0.0322131         
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+run: rho=3.2944 R=0.047 d=0.0194
+     1            2        0.0322131         initial simplex
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+run: rho=2.8238 R=0.047 d=0.0194
+     2            4        0.0262578         expand
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.51 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+run: rho=2.9806 R=0.047 d=0.0194
+     3            6        0.0186885         contract inside
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=3.1375 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+run: rho=2.9022 R=0.047 d=0.0194
+     4            8        0.0186885         contract inside
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=3.0591 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+     5           10        0.0186885         contract inside
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=3.0198 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+run: rho=2.961 R=0.047 d=0.0194
+     6           12        0.0183164         contract inside
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9414 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+run: rho=2.9708 R=0.047 d=0.0194
+     7           15        0.0183164         shrink
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9512 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+run: rho=2.9561 R=0.047 d=0.0194
+     8           17        0.0183164         contract outside
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9659 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+     9           20        0.0183164         shrink
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9635 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+run: rho=2.9598 R=0.047 d=0.0194
+    10           23         0.017478         shrink
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+run: rho=2.9604 R=0.047 d=0.0194
+    11           26         0.017478         shrink
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+run: rho=2.9586 R=0.047 d=0.0194
+    12           28        0.0155734         expand
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9573 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+run: rho=2.9592 R=0.047 d=0.0194
+    13           31        0.0155734         shrink
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+    14           33        0.0123228         contract outside
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.958 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+run: rho=2.9584 R=0.047 d=0.0194
+    15           36        0.0123228         shrink
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9581 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+    16           39        0.0123228         shrink
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+run: rho=2.9583 R=0.047 d=0.0194
+    17           41        0.0123228         contract inside
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0.047 d=0.0194
+run: rho=2.9582 R=0

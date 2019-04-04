@@ -1,0 +1,4 @@
+Just minimizing over rho and keeping both R (at 0.047) and  d constant.
+We match only
+fa and ee.
+

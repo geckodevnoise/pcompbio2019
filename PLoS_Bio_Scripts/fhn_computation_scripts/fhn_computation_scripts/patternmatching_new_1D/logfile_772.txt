@@ -1,0 +1,349 @@
+gecko 772
+initial value determined from U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\new method - minimize fa ee only\arrays_25_25_1_aug29
+SS/PL=0.815  EE=0.72   FA=0.336
+initial data rho=3.3125 R=0.042458  d=0.0194 threshold_id=95
+ 
+Initializing matrices...
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+run: rho=3.3125 R=0.047 d=0.0194
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1        0.0036321         
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+run: rho=3.4781 R=0.047 d=0.0194
+     1            2        0.0036321         initial simplex
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.1469 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+run: rho=3.3953 R=0.047 d=0.0194
+     2            5        0.0036321         shrink
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.2297 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+     3            8        0.0036321         shrink
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.2711 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+run: rho=3.3332 R=0.047 d=0.0194
+     4           10       0.00338481         contract inside
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3539 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+run: rho=3.3229 R=0.047 d=0.0194
+     5           13       0.00338481         shrink
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3436 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+run: rho=3.328 R=0.047 d=0.0194
+     6           16       0.00338481         shrink
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3384 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+run: rho=3.3306 R=0.047 d=0.0194
+     7           19       0.00338481         shrink
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3358 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+     8           22       0.00338481         shrink
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3345 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+run: rho=3.3326 R=0.047 d=0.0194
+     9           24       0.00248304         contract inside
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3319 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+run: rho=3.3329 R=0.047 d=0.0194
+    10           27       0.00248304         shrink
+run: rho=3.3322 R=0.047 d=0.0194
+run: rho=3.3322 R=0.047 d=0.0194
+run: rho=3.3322 R=0.047 d=0.0194
+run: rho=3.3322 R=0.047 d=0.0194[Warning: Variable 'mindist' not found.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 42)" style="font-weight:bold">optimize_pattern</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',42,0)">line 42</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loop_all_geckos', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m', 14)" style="font-weight:bold">loop_all_geckos</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m',14,0)">line 14</a>)] 
+gecko 772
+initial value determined from U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\new method - minimize fa ee only\arrays_25_25_1_aug29
+SS/PL=0.815  EE=0.72   FA=0.336
+initial data rho=3.3125 R=0.042458  d=0.0194 threshold_id=95
+ 
+Initializing matrices...
+run: rho=3.3326 R=0.047 d=0.0194
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestFunction', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\TestFunction.m', 14)" style="font-weight:bold">TestFunction</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\TestFunction.m',14,0)">line 14</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn>@(T,Y)TestFunction(T,Y,rho,R)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m', 53)" style="font-weight:bold">fn>@(T,Y)TestFunction(T,Y,rho,R)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m', 274)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m',274,0)">line 274</a>)
+    f(:,7) = feval(odeFcn,tnew,ynew,odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m', 53)" style="font-weight:bold">fn</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distance_characteristics_space', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\distance_characteristics_space.m', 20)" style="font-weight:bold">distance_characteristics_space</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\distance_characteristics_space.m',20,0)">line 20</a>)
+fn(rhog,Rg,diffcoeffg);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern>@(param)distance_characteristics_space(param,iniR,inid,ss_pl,ee,fa)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 59)" style="font-weight:bold">optimize_pattern>@(param)distance_characteristics_space(param,iniR,inid,ss_pl,ee,fa)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',59,0)">line 59</a>)
+obj_fct=@(param) distance_characteristics_space(param,iniR,inid, ss_pl,ee,fa); %% we keep d constant=inid
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fminsearch', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p', 189)" style="font-weight:bold">fminsearch</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p',189,0)">line 189</a>)
+fv(:,1) = funfcn(x,varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 60)" style="font-weight:bold">optimize_pattern</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',60,0)">line 60</a>)
+[optimal_param,fval,exitflag,output] = fminsearch(obj_fct, [   inirho], options)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loop_all_geckos', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m', 14)" style="font-weight:bold">loop_all_geckos</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m',14,0)">line 14</a>)
+     optimize_pattern(gecko_data(ii,1),gecko_data(ii,2),gecko_data(ii,3),gecko_data(ii,4));
+} 
+loop_all_geckos
+[Warning: Variable 'mindist' not found.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 42)" style="font-weight:bold">optimize_pattern</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',42,0)">line 42</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loop_all_geckos', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m', 14)" style="font-weight:bold">loop_all_geckos</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m',14,0)">line 14</a>)] 
+gecko 772
+initial value determined from U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\new method - minimize fa ee only\arrays_25_25_1_aug29
+SS/PL=0.815  EE=0.72   FA=0.336
+initial data rho=3.3326 R=0.047  d=0.0194 threshold_id=1.8591
+ 
+Initializing matrices...
+run: rho=3.3326 R=0.047 d=0.0194
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestFunction', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\TestFunction.m', 4)" style="font-weight:bold">TestFunction</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\TestFunction.m',4,0)">line 4</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn>@(T,Y)TestFunction(T,Y,rho,R)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m', 53)" style="font-weight:bold">fn>@(T,Y)TestFunction(T,Y,rho,R)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m', 274)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m',274,0)">line 274</a>)
+    f(:,7) = feval(odeFcn,tnew,ynew,odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m', 53)" style="font-weight:bold">fn</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distance_characteristics_space', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\distance_characteristics_space.m', 20)" style="font-weight:bold">distance_characteristics_space</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\distance_characteristics_space.m',20,0)">line 20</a>)
+fn(rhog,Rg,diffcoeffg);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern>@(param)distance_characteristics_space(param,iniR,inid,ss_pl,ee,fa)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 59)" style="font-weight:bold">optimize_pattern>@(param)distance_characteristics_space(param,iniR,inid,ss_pl,ee,fa)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',59,0)">line 59</a>)
+obj_fct=@(param) distance_characteristics_space(param,iniR,inid, ss_pl,ee,fa); %% we keep d constant=inid
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fminsearch', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p', 189)" style="font-weight:bold">fminsearch</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p',189,0)">line 189</a>)
+fv(:,1) = funfcn(x,varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 60)" style="font-weight:bold">optimize_pattern</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',60,0)">line 60</a>)
+[optimal_param,fval,exitflag,output] = fminsearch(obj_fct, [   inirho], options)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loop_all_geckos', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m', 14)" style="font-weight:bold">loop_all_geckos</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m',14,0)">line 14</a>)
+     optimize_pattern(gecko_data(ii,1),gecko_data(ii,2),gecko_data(ii,3),gecko_data(ii,4));
+} 
+loop_all_geckos
+gecko 772
+initial value determined from U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\new method - minimize fa ee only\arrays_25_25_1_aug29
+SS/PL=0.815  EE=0.72   FA=0.336
+initial data rho=3.3326 R=0.047  d=0.0194 threshold_id=1.8591
+ 
+Initializing matrices...
+run: rho=3.3326 R=0.047 d=0.0194
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestFunction', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\TestFunction.m', 14)" style="font-weight:bold">TestFunction</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\TestFunction.m',14,0)">line 14</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn>@(T,Y)TestFunction(T,Y,rho,R)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m', 53)" style="font-weight:bold">fn>@(T,Y)TestFunction(T,Y,rho,R)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m', 263)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\funfun\ode45.m',263,0)">line 263</a>)
+    f(:,4) = feval(odeFcn,t+hA(3),y+f*hB(:,3),odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fn', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m', 53)" style="font-weight:bold">fn</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\fn.m',53,0)">line 53</a>)
+ [t,UU,te,ye,ie] = ode45(@(T,Y)TestFunction(T,Y,rho,R),tspan,UU0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distance_characteristics_space', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\distance_characteristics_space.m', 20)" style="font-weight:bold">distance_characteristics_space</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\distance_characteristics_space.m',20,0)">line 20</a>)
+fn(rhog,Rg,diffcoeffg);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern>@(param)distance_characteristics_space(param,iniR,inid,ss_pl,ee,fa)', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 59)" style="font-weight:bold">optimize_pattern>@(param)distance_characteristics_space(param,iniR,inid,ss_pl,ee,fa)</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',59,0)">line 59</a>)
+obj_fct=@(param) distance_characteristics_space(param,iniR,inid, ss_pl,ee,fa); %% we keep d constant=inid
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fminsearch', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p', 189)" style="font-weight:bold">fminsearch</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\optimfun\fminsearch.p',189,0)">line 189</a>)
+fv(:,1) = funfcn(x,varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optimize_pattern', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m', 60)" style="font-weight:bold">optimize_pattern</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\optimize_pattern.m',60,0)">line 60</a>)
+[optimal_param,fval,exitflag,output] = fminsearch(obj_fct, [   inirho], options)
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loop_all_geckos', 'U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m', 14)" style="font-weight:bold">loop_all_geckos</a> (<a href="matlab: opentoline('U:\tglimm\texte\biology\animal_patterns_audi\fitzhugh_nagumo\patternmatching\patternmatching_new_1D\loop_all_geckos.m',14,0)">line 14</a>)
+     optimize_pattern(gecko_data(ii,1),gecko_data(ii,2),gecko_data(ii,3),gecko_data(ii,4));
+} 
+loop_all_geckos

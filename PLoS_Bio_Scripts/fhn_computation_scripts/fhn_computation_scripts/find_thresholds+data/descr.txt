@@ -1,0 +1,11 @@
+Problem was: Several clouds in phenotype space weren't centered on the gecko phenotypes.
+
+I used the same optimal mu, but used a different way to compute the threshold. 
+(comment from recalculate_thresholds:
+
+%% improvement of distance_characteristics_space: instead of optimizing the distance at every run, taking average of thresholds,
+%% we find teh threshold that leads to a cloud whose c.o.m. is closest to the point in phenotype space)
+
+)
+
+works much better!
